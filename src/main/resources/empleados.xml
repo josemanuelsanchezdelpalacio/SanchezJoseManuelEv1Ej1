@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empleados>
+    <empleado>
+        <dni>171234567A</dni>
+        <nombre>VILMA ROCA</nombre>
+        <sueldo>3000</sueldo>
+        <obraAsignada>Bar el pedregal</obraAsignada>
+    </empleado>
+    <empleado>
+        <dni>17123458A</dni>
+        <nombre>VILMA RADIAL</nombre>
+        <sueldo>3000</sueldo>
+        <obraAsignada>Bar el pedregal</obraAsignada>
+    </empleado>
+    <empleado>
+        <dni>19123456B</dni>
+        <nombre>BETTY ARENA</nombre>
+        <sueldo>2500</sueldo>
+        <obraAsignada>Bar el pedregal</obraAsignada>
+    </empleado>
+    <empleado>
+        <dni>17123456Y</dni>
+        <nombre>BETTY MAZA</nombre>
+        <sueldo>3000</sueldo>
+        <obraAsignada>Bar el pedregal</obraAsignada>
+    </empleado>
+    <empleado>
+        <dni>17123456Z</dni>
+        <nombre>PEBBLE GUIJARRO</nombre>
+        <sueldo>3000</sueldo>
+        <obraAsignada>Guardería</obraAsignada>
+    </empleado>
+</empleados>
